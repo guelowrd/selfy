@@ -1,0 +1,8 @@
+[submodule "madztheo/selfy-webapp"]
+  path = ./selfy-webapp
+  url = https://github.com/madztheo/
+  branch = main
+[submodule "madztheo/selfy-sc"]
+  path = ./selfy-sc
+  url = https://github.com/madztheo/
+  branch = main
