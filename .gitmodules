@@ -1,0 +1,6 @@
+[submodule "selfy-webapp"]
+	path = selfy-webapp
+	url = https://github.com/madztheo/selfy-webapp
+[submodule "selfy-sc"]
+	path = selfy-sc
+	url = https://github.com/madztheo/selfy-sc
